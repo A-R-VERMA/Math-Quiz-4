@@ -1,0 +1,15 @@
+body{
+    background-color: turquoise;
+}
+.login_1, .login_2{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    border-radius: 15px;
+}
+button{
+    width: 75px;
+    height: 30px;
+    background-color: rgb(0, 255, 191);
+}
